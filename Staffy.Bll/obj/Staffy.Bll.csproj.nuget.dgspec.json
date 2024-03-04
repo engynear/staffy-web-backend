@@ -1,0 +1,160 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\engynear\\code\\staffy\\backend\\Staffy.Bll\\Staffy.Bll.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\engynear\\code\\staffy\\backend\\Staffy.Bll\\Staffy.Bll.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\engynear\\code\\staffy\\backend\\Staffy.Bll\\Staffy.Bll.csproj",
+        "projectName": "Staffy.Bll",
+        "projectPath": "C:\\Users\\engynear\\code\\staffy\\backend\\Staffy.Bll\\Staffy.Bll.csproj",
+        "packagesPath": "C:\\Users\\engynear\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\engynear\\code\\staffy\\backend\\Staffy.Bll\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\engynear\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\engynear\\code\\staffy\\backend\\Staffy.Dal\\Staffy.Dal.csproj": {
+                "projectPath": "C:\\Users\\engynear\\code\\staffy\\backend\\Staffy.Dal\\Staffy.Dal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\engynear\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\engynear\\code\\staffy\\backend\\Staffy.Dal\\Staffy.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\engynear\\code\\staffy\\backend\\Staffy.Dal\\Staffy.Dal.csproj",
+        "projectName": "Staffy.Dal",
+        "projectPath": "C:\\Users\\engynear\\code\\staffy\\backend\\Staffy.Dal\\Staffy.Dal.csproj",
+        "packagesPath": "C:\\Users\\engynear\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\engynear\\code\\staffy\\backend\\Staffy.Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\engynear\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "FluentMigrator": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "FluentMigrator.Runner": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "FluentMigrator.Runner.Postgres": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.57.0, )"
+            },
+            "Microsoft.AspNetCore.Grpc.JsonTranscoding": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.AspNetCore.Grpc.Swagger": {
+              "target": "Package",
+              "version": "[0.8.2, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\engynear\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

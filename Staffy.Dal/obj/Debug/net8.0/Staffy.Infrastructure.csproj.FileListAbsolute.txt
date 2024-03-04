@@ -1,0 +1,15 @@
+C:\Users\engynear\code\staffy\backend\Staffy.Infrastructure\bin\Debug\net8.0\Staffy.Infrastructure.deps.json
+C:\Users\engynear\code\staffy\backend\Staffy.Infrastructure\bin\Debug\net8.0\Staffy.Infrastructure.dll
+C:\Users\engynear\code\staffy\backend\Staffy.Infrastructure\bin\Debug\net8.0\Staffy.Infrastructure.pdb
+C:\Users\engynear\code\staffy\backend\Staffy.Infrastructure\bin\Debug\net8.0\Staffy.Domain.dll
+C:\Users\engynear\code\staffy\backend\Staffy.Infrastructure\bin\Debug\net8.0\Staffy.Domain.pdb
+C:\Users\engynear\code\staffy\backend\Staffy.Infrastructure\obj\Debug\net8.0\Staffy.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\engynear\code\staffy\backend\Staffy.Infrastructure\obj\Debug\net8.0\Staffy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engynear\code\staffy\backend\Staffy.Infrastructure\obj\Debug\net8.0\Staffy.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\engynear\code\staffy\backend\Staffy.Infrastructure\obj\Debug\net8.0\Staffy.Infrastructure.AssemblyInfo.cs
+C:\Users\engynear\code\staffy\backend\Staffy.Infrastructure\obj\Debug\net8.0\Staffy.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\engynear\code\staffy\backend\Staffy.Infrastructure\obj\Debug\net8.0\Staffy.Infrastructure.csproj.CopyComplete
+C:\Users\engynear\code\staffy\backend\Staffy.Infrastructure\obj\Debug\net8.0\Staffy.Infrastructure.dll
+C:\Users\engynear\code\staffy\backend\Staffy.Infrastructure\obj\Debug\net8.0\refint\Staffy.Infrastructure.dll
+C:\Users\engynear\code\staffy\backend\Staffy.Infrastructure\obj\Debug\net8.0\Staffy.Infrastructure.pdb
+C:\Users\engynear\code\staffy\backend\Staffy.Infrastructure\obj\Debug\net8.0\ref\Staffy.Infrastructure.dll

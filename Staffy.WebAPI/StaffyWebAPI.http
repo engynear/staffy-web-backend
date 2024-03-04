@@ -1,0 +1,6 @@
+@StaffyWebAPI_HostAddress = http://localhost:5168
+
+GET {{StaffyWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

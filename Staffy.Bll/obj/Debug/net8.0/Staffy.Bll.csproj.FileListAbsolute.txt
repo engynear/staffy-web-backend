@@ -1,0 +1,15 @@
+C:\Users\engynear\code\staffy\backend\Staffy.Bll\bin\Debug\net8.0\Staffy.Bll.deps.json
+C:\Users\engynear\code\staffy\backend\Staffy.Bll\bin\Debug\net8.0\Staffy.Bll.dll
+C:\Users\engynear\code\staffy\backend\Staffy.Bll\bin\Debug\net8.0\Staffy.Bll.pdb
+C:\Users\engynear\code\staffy\backend\Staffy.Bll\bin\Debug\net8.0\Staffy.Dal.dll
+C:\Users\engynear\code\staffy\backend\Staffy.Bll\bin\Debug\net8.0\Staffy.Dal.pdb
+C:\Users\engynear\code\staffy\backend\Staffy.Bll\obj\Debug\net8.0\Staffy.Bll.csproj.AssemblyReference.cache
+C:\Users\engynear\code\staffy\backend\Staffy.Bll\obj\Debug\net8.0\Staffy.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engynear\code\staffy\backend\Staffy.Bll\obj\Debug\net8.0\Staffy.Bll.AssemblyInfoInputs.cache
+C:\Users\engynear\code\staffy\backend\Staffy.Bll\obj\Debug\net8.0\Staffy.Bll.AssemblyInfo.cs
+C:\Users\engynear\code\staffy\backend\Staffy.Bll\obj\Debug\net8.0\Staffy.Bll.csproj.CoreCompileInputs.cache
+C:\Users\engynear\code\staffy\backend\Staffy.Bll\obj\Debug\net8.0\Staffy.Bll.csproj.CopyComplete
+C:\Users\engynear\code\staffy\backend\Staffy.Bll\obj\Debug\net8.0\Staffy.Bll.dll
+C:\Users\engynear\code\staffy\backend\Staffy.Bll\obj\Debug\net8.0\refint\Staffy.Bll.dll
+C:\Users\engynear\code\staffy\backend\Staffy.Bll\obj\Debug\net8.0\Staffy.Bll.pdb
+C:\Users\engynear\code\staffy\backend\Staffy.Bll\obj\Debug\net8.0\ref\Staffy.Bll.dll

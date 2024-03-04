@@ -1,0 +1,12 @@
+C:\Users\engynear\code\staffy\backend\Staffy.Dal\bin\Debug\net8.0\Staffy.Dal.deps.json
+C:\Users\engynear\code\staffy\backend\Staffy.Dal\bin\Debug\net8.0\Staffy.Dal.dll
+C:\Users\engynear\code\staffy\backend\Staffy.Dal\bin\Debug\net8.0\Staffy.Dal.pdb
+C:\Users\engynear\code\staffy\backend\Staffy.Dal\obj\Debug\net8.0\Staffy.Dal.csproj.AssemblyReference.cache
+C:\Users\engynear\code\staffy\backend\Staffy.Dal\obj\Debug\net8.0\Staffy.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engynear\code\staffy\backend\Staffy.Dal\obj\Debug\net8.0\Staffy.Dal.AssemblyInfoInputs.cache
+C:\Users\engynear\code\staffy\backend\Staffy.Dal\obj\Debug\net8.0\Staffy.Dal.AssemblyInfo.cs
+C:\Users\engynear\code\staffy\backend\Staffy.Dal\obj\Debug\net8.0\Staffy.Dal.csproj.CoreCompileInputs.cache
+C:\Users\engynear\code\staffy\backend\Staffy.Dal\obj\Debug\net8.0\Staffy.Dal.dll
+C:\Users\engynear\code\staffy\backend\Staffy.Dal\obj\Debug\net8.0\refint\Staffy.Dal.dll
+C:\Users\engynear\code\staffy\backend\Staffy.Dal\obj\Debug\net8.0\Staffy.Dal.pdb
+C:\Users\engynear\code\staffy\backend\Staffy.Dal\obj\Debug\net8.0\ref\Staffy.Dal.dll
